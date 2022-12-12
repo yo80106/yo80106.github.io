@@ -1,4 +1,4 @@
-baseurl = "https://yo80106.github.io"
+baseurl = "https://yo80106.github.io/"
 title = "yo80106@writing"
 theme = "hugo-theme-console"
 languageCode = "zh-tw"
