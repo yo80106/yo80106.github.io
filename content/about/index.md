@@ -1,32 +1,29 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
+date = "2022-12-12"
 title = "About"
 +++
 
-盤古開天闢地... 
+## 關於yo80106@writing
 
-![Console](https://github.com/mrmierzejewski/hugo-theme-console/blob/master/images/preview.png?raw=true)
+如果你成長在千禧年的第一個十年，那這裡就像是「yo80106の小窩」。  
+如果你成長在千禧年的第二個十年，那這裡就像是「yo80106的臉書」。  
+如果你成長在最近的十年，那這裡就像是~~yo80106的抖音~~，不，這裡永遠都不會變成抖音的樣子。
 
-## Installation
+簡單來說，大腦要記的東西太多，但容量太小，所以我把它們記在這裡，或可複習、或可回憶。
 
-```
-$ mkdir themes
-$ cd themes
-$ git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git hugo-theme-console
-```
-    
-See the [Hugo documentation](https://gohugo.io/themes/installing/) for more information.
+目前我想到可能會分享的內容：
+* 學習筆記
+* 經驗分享
+* 正在進行的小計劃(?)
+* 對人生、生活正經或不正經的想法
 
-## Configuration
+## 關於yo80106
 
-Set theme parameter in your config file:
+可以肯定的是，我是個有血有肉富有情感、秉持著科學精神的人類。
 
-```
-theme = "hugo-theme-console"
-```
+所以你不用擔心我是農場文章的小編，讓你看一些似是而非、為了增加流量的東西。  
+也不用擔心你正在被利用為某神秘大公司測試AI語言機器人，文章若有不知所云之處，絕對是我個人造成的。
 
-## License
+不過就因為我是個人，內容若有錯誤，實屬自然現象，再煩請告知。
 
-Copyright © 2020 [Marcin Mierzejewski](https://mrmierzejewski.com/)
-
-The theme is released under the MIT License. Check the [original theme license](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md) for additional licensing information.
+與我聯絡：yo80106@gmail.com
