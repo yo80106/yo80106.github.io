@@ -20,5 +20,5 @@ languageCode = "zh-tw"
   url = "posts/"
   
   [[params.navlinks]]
-  name = "photos/"
-  url = "photos/"
+  name = "collections/"
+  url = "collections/"
