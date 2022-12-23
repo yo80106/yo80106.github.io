@@ -22,3 +22,6 @@ languageCode = "zh-tw"
   [[params.navlinks]]
   name = "collections/"
   url = "collections/"
+
+  # analytics
+  googleAnalyticsID = "G-PSDED7EGZ2"
