@@ -23,5 +23,5 @@ languageCode = "zh-tw"
   name = "collections/"
   url = "collections/"
 
-  # analytics
+  # GA analytics
   googleAnalyticsID = "G-PSDED7EGZ2"
