@@ -6,7 +6,11 @@
     <description>Recent content in Posts on yo80106@writing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yo80106.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yo80106.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>創站號 - 三十而立，不過自由做自己</title>
       <link>https://yo80106.github.io/posts/%E5%89%B5%E7%AB%99%E8%99%9F/</link>
