@@ -6,17 +6,22 @@
     <description>Recent content on yo80106@writing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 12 Dec 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://yo80106.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yo80106.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的人生歌單</title>
+      <link>https://yo80106.github.io/posts/songs/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yo80106.github.io/posts/songs/</guid>
+      <description>&lt;p&gt;這十首歌總會帶我回到人生中的某個時刻。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>創站號 - 三十而立，不過自由做自己</title>
-      <link>https://yo80106.github.io/posts/%E5%89%B5%E7%AB%99%E8%99%9F/</link>
+      <link>https://yo80106.github.io/posts/genesis/</link>
       <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://yo80106.github.io/posts/%E5%89%B5%E7%AB%99%E8%99%9F/</guid>
+      <guid>https://yo80106.github.io/posts/genesis/</guid>
       <description>&lt;p&gt;我有預感這篇創站號會是一篇最難寫的文章，因為要把自我寫好最困難。&lt;/p&gt;</description>
     </item>
     
@@ -31,7 +36,7 @@
 如果你成長在最近的十年，那這裡就像是yo80106的抖音，不，這裡永遠都不會變成抖音的樣子。
 簡單來說，大腦要記的東西太多，但容量太小，所以我把它們記在這裡，或可複習、或可回憶。
 目前我想到可能會分享的內容：
- 學習筆記 經驗分享 正在進行的小計劃(?) 對人生、生活正經或不正經的想法  關於yo80106 可以肯定的是，我是個有血有肉富有情感、秉持著科學精神的人類。
+學習筆記 經驗分享 正在進行的小計劃(?) 對人生、生活正經或不正經的想法 關於yo80106 可以肯定的是，我是個有血有肉富有情感、秉持著科學精神的人類。
 所以你不用擔心我是農場文章的小編，讓你看一些似是而非、為了增加流量的東西。
 也不用擔心你正在被利用為某神秘大公司測試AI語言機器人，文章若有不知所云之處，絕對是我個人造成的。
 不過就因為我是個人，內容若有錯誤，實屬自然現象，再煩請告知。

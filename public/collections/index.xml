@@ -5,10 +5,6 @@
     <link>https://yo80106.github.io/collections/</link>
     <description>Recent content in Collections on yo80106@writing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    
-	<atom:link href="https://yo80106.github.io/collections/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>zh-tw</language><atom:link href="https://yo80106.github.io/collections/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
