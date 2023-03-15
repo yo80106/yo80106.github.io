@@ -1,6 +1,6 @@
 +++
 title = "帶著ChatGPT讀懂經濟學人雜誌"
-date = "2023-02-21"
+date = "2023-03-15"
 +++
 
 ChatGPT會是我閱讀經濟學人的好夥伴嗎？
@@ -16,10 +16,18 @@ ChatGPT會是我閱讀經濟學人的好夥伴嗎？
 
 The article discusses how the Covid-19 pandemic has brought about significant changes that will impact the future of the world. It draws parallels between the pandemic and other events such as the Spanish Flu, the Roaring Twenties, and World War II, which also led to significant social changes. The author points out that the pandemic has highlighted injustices and inequalities in society, and how it has served as a warning of the need to address climate change and the treatment of animals. The article argues that the pandemic has also been an engine for innovation, particularly in areas like e-commerce, renewable energy, and healthcare. It praises the speed at which scientists were able to sequence the virus and develop vaccines, as well as the role of innovative government policies in dealing with the pandemic. The article concludes by stating that the pandemic has shown that change is possible, even in conservative industries, and that innovation will continue to burn through industry after industry, leading to significant changes in the future.
 
-了解文意之後，我就會開始研究文章的細節之處，從段落、句型、文法，最後到單字。這篇文章屬於經濟學人很典型的一種類型，開頭以一段富故事性的內容引起讀者的興趣、中間段落層層推進，最後一段總結全文，而且往往文章的最後一句會留給讀者想像很深思的空間。
+了解文意之後，我就會開始研究文章的細節之處，從段落、句型、文法，最後到單字。這篇文章屬於經濟學人很典型的一種類型，開頭以一段富故事性的內容引起讀者的興趣、中間段落層層推進，最後一段總結全文，而且往往文章的最後一句會留給讀者想像和深思的空間。
 
-本文第一段以1920年代的美國作為背景，人們經歷完第一次世界大戰和西班牙流感，不只迅速地恢復常態，甚至各方面都快速向前，創造出「咆哮的二十年代」(Roaring Twenties)。此段目的是想藉1920年代和2020年的疫情互作參照，提示了2020年，人們同樣能夠在歷劫之後，創造出更多可能性。來看看ChatGPT分析第一段在文章中的作用。
+本文第一段以1920年代的美國作為背景，人們經歷完第一次世界大戰和西班牙流感，不只迅速地恢復常態，甚至各方面都快速向前，創造出「咆哮的二十年代」(Roaring Twenties)。此段目的是想藉1920年代和2020年的疫情互作參照，提示了2020年，人們同樣能夠在歷劫之後，創造出更多可能性。來看看ChatGPT分析第一段在文章中的作用，看起來是十分準確。
 
 The purpose of the first paragraph is to draw a parallel between Warren Harding's campaign in 1920, which promised a return to normalcy after the upheavals of the First World War and the Spanish flu, and the current pandemic, which has caused immense suffering and revealed injustices, but also has the potential to lead to significant changes in society. The paragraph also highlights how the Roaring Twenties turned out to be a time of innovation and forward-looking social, industrial, and artistic novelty, despite Harding's promise of normalcy.
 
+接下來看看本文的一長難句：At a time when conspiracies run wild, this research stands as a rebuke to the know-nothings and zealots in dictatorships and democracies who behave as if the evidence for a claim is as nothing next to the identity of the person asserting it. (在陰謀論甚囂塵上之際，這樣的研究有力駁斥了獨裁和民主國家中那些不看證據只看說話者身分的無知和狂熱分子。)ChatGPT同樣很清楚的解釋了句型和文法：
+
+- "At a time when conspiracies run wild" - this is a prepositional phrase that functions as an adverbial of time, modifying the entire clause.
+- "this research stands as a rebuke" - the subject of the sentence is "this research", and "stands" is the verb. "As a rebuke" is a prepositional phrase that functions as a predicate nominative, renaming the subject.
+- "to the know-nothings and zealots" - this is a prepositional phrase that functions as the indirect object of the verb "stands", answering the question "to whom does the research stand as a rebuke?"
+- "in dictatorships and democracies" - this is another prepositional phrase that functions as an adverbial of place, modifying the verb "behave".
+- "who behave" - "who" is a relative pronoun that refers to "know-nothings and zealots", and "behave" is the verb.
+- "as if the evidence for a claim is as nothing next to the identity of the person asserting it" - this is a subordinate clause that functions as an adjectival modifying "know-nothings and zealots". "As if" is a subordinating conjunction that introduces the clause, which expresses a hypothetical comparison. "The evidence for a claim" is the subject of the clause, "is" is the linking verb, and "as nothing" is a prepositional phrase that functions as a predicate nominative, renaming "the evidence". "Next to" is a preposition that shows the relationship between "nothing" and "the identity of the person asserting it", which is the object of the preposition.
 
