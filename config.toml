@@ -2,6 +2,7 @@ baseurl = "https://yo80106.github.io/"
 title = "yo80106@writing"
 theme = "hugo-theme-console"
 languageCode = "zh-tw"
+disqusShortname = "yo80106"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
