@@ -1,5 +1,7 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 {{ .Content }}
-{{ partial "disqus.html" . }}
+{{ if .Params.comment }}
+	{{ partial "disqus.html" . }}
+{{ end }}
 {{ end }}

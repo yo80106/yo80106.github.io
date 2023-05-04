@@ -26,3 +26,5 @@ disqusShortname = "yo80106"
 
   # GA analytics
   googleAnalyticsID = "G-PSDED7EGZ2"
+  
+  comment =  true
