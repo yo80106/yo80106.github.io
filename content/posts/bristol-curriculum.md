@@ -6,7 +6,7 @@ date = "2023-04-27"
 如果你對布里斯托大學(University of Bristol)的CS課程有興趣，可以看看。
 <!--more-->
 
-本文是申請英國大學CS Conversion課程的系列文之二，第一篇是[英國CS Conversion(轉專業)碩士申請](https://yo80106.github.io/posts/study-abroad/)。布里斯托大學是我最後決定就讀的學校，這裡會詳細介紹我在2020~2021所參與的課程心得與課程評價。英國碩士班的學制分為三學期，如果你打開[課程規畫網站](https://www.bris.ac.uk/unit-programme-catalogue/RouteStructure.jsa?byCohort=N&ayrCode=20%252F21&programmeCode=4COSC005T) ，會發現Teching Block 1、2，表示該課程是在第一學期和第二學期開設。
+本文是申請英國大學CS Conversion課程的系列文之二，第一篇是[英國CS Conversion(轉專業)碩士申請](https://yo80106.github.io/posts/study-abroad/)。布里斯托大學是我最後決定就讀的學校，這裡會詳細介紹我在2020~2021所參與的課程心得與課程評價。英國碩士班的學制分為三學期，如果你打開[課程規畫網站](https://www.bristol.ac.uk/unit-programme-catalogue/RouteStructure.jsa?programmeCode=4COSC005T)，會發現Teching Block 1、2，表示該課程是在第一學期和第二學期開設。
 
 **請特別注意：我所提供的課程資訊可能已過時，個人是分享2020/2021的資訊。**
 
@@ -24,15 +24,15 @@ date = "2023-04-27"
 
 ### Overview of Computer Architecture
 
-我發現這門課的老師和我這屆已經不同了(應該是原本的助教已經變成授課老師)，但課程大綱差不多。這門課比較困難的是後面在上assembly language的部分。我們那時候有學怎麼寫簡單的assembly language，考試也有考。比較可惜的是，這門課和C語言一起開在第一學期，原本立意應該是可以透過C語言去了解系統，兩者相輔相成，但老師並沒有給我們這樣的訓練。我自己參考了大學部的[Imperative and Functional Programming](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10016)，前半部的C語言部份比較有提到和系統間的關係。我也有大學部這門課程的資料，需要的同學一樣可以寫信向我詢問。
+我發現這門課的老師和我這屆已經不同了，但課程大綱差不多。這門課比較困難的是後面在上assembly language的部分。我們那時候有學怎麼寫簡單的assembly language，考試也有考。比較可惜的是，這門課和C語言一起開在第一學期，原本立意應該是可以透過C語言去了解系統，兩者相輔相成，但老師並沒有給我們這樣的訓練。我自己參考了大學部的[Imperative and Functional Programming](https://www.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMS10016)，前半部的C語言部份比較有提到和系統間的關係。我也有大學部這門課程的資料，需要的同學一樣可以寫信向我詢問。
 
 ### Object-Oriented Programming with Java
 
-作為第二學期最主要的程式課，我給它偏差的評價。這門課在我們這屆幾乎是自學的方式進行，老師給的課程錄影很顯然是從大學部的課堂上擷取出來的，所以連貫性很差。課程進行的方式，像是利用每周的作業讓大家去自學，雖有每周和老師討論的時間可以提問，但在沒有足夠基礎下，也很難問出問題。看授課老師到現在還是同一位，只希望他有吸取我們的教學回饋並有所改善。我那時候自己花很多時間讀Java的書，根本沒什麼在看老師提供的錄影，就當成是自學完利用每周作業去練習。大學部的Java課[Object-Oriented Programming and Algorithms I](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=22%2F23&unitCode=COMS10017)看起來就很有規劃，到MSc就被魔改。我也有大學部這門課的資料，有需要的同學自行與我詢問。
+作為第二學期最主要的程式課，我給它偏差的評價。這門課在我們這屆幾乎是自學的方式進行，老師給的課程錄影很顯然是從大學部的課堂上擷取出來的，所以連貫性很差。課程進行的方式，像是利用每周的作業讓大家去自學，雖有每周和老師討論的時間可以提問，但在沒有足夠基礎下，也很難問出問題。看授課老師到現在還是同一位，只希望他有吸取我們的教學回饋並有所改善。我那時候自己花很多時間讀Java的書，根本沒什麼在看老師提供的錄影，就當成是自學完利用每周作業去練習。大學部的Java課[Object-Oriented Programming and Algorithms I](https://www.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMS10017)看起來就很有規劃，到MSc就被魔改。我也有大學部這門課的資料，有需要的同學自行與我詢問。
 
 ### Overview of Software Tools
 
-這門課前半部份主要介紹一些工具，例如：Git、Shell scripting、不同語言的build tools，還有SQL語法，我覺得算蠻實用的；後半部介紹網路開發的御三家：HTML、CSS、JavaScript，這部分個人覺得實用性比較低，算是師父領進門，畢竟像JavaScript本身就能當作一門課來學，這一點點的介紹只是讓大家有個基本概念。因為我們第二學期有另一門團隊共同開發的課，是以開發網路應用程式為主，所以這些基本的網路開發工具能提供基礎，但實際上要完成小組開發專案，還是要靠個人深入去了解相關技術。對於課程有興趣的同學也可以先上[課程網站](https://cs-uob.github.io/COMSM0085/)瀏覽內容。
+這門課前半部份主要介紹一些工具，例如：Git、Shell Scripting、不同語言的Build Tools，還有SQL語法，我覺得算蠻實用的；後半部介紹網路開發的御三家：HTML、CSS、JavaScript，這部分個人覺得實用性比較低，算是師父領進門，畢竟像JavaScript本身就能當作一門課來學，這一點點的介紹只是讓大家有個基本概念。因為我們第二學期有另一門團隊共同開發的課，是以開發網路應用程式為主，所以這些基本的網路開發工具能提供基礎，但實際上要完成小組開發專案，還是要靠個人深入去了解相關技術。對於課程有興趣的同學也可以先上[課程網站](https://cs-uob.github.io/COMSM0085/)瀏覽內容。
 
 ### MSc Project Computer Science
 
