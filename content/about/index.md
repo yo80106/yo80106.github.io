@@ -28,3 +28,11 @@ comment = false
 不過就因為我是個人，內容若有錯誤，實屬自然現象，再煩請告知。
 
 與我聯絡：yo80106@gmail.com
+
+## 系列文章
+
+### 英國留學申請系列
+
+- [英國CS Conversion(轉專業)碩士申請](https://yo80106.github.io/posts/study-abroad/)
+- [英國布里斯托大學CS Conversion碩士課程介紹](https://yo80106.github.io/posts/bristol-curriculum/)
+- [英國布里斯托大學Think Big獎學金申請心得](https://yo80106.github.io/posts/think-big-scholarship/)
