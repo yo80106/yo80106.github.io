@@ -1,7 +1,7 @@
 +++
 image = "plant-on-balcony.jpg"
 date = "2024-05-15"
-title = "生活隨筆-我家花台"
+title = "生活隨筆 - 我家花台"
 type = "gallery"
 
 +++
