@@ -26,10 +26,10 @@ date = "2024-12-26"
 
 最後，老家書單：
 
-- [ ][百年孤寂 (重讀)](https://www.eslite.com/product/1001116992655321)
-- [ ] [活著是為了說故事: 楊照談馬奎斯百年孤寂 (重讀)](https://www.eslite.com/product/1001289402682246800002)
-- [ ] [挪威的森林 (重讀)](https://www.eslite.com/product/1001110932638159)
-- [ ] [舞．舞．舞](https://www.eslite.com/product/1001110932638162)
-- [ ] [發條鳥年代記](https://www.eslite.com/product/1001110932638161)
-- [ ] [海邊的卡夫卡 ](https://www.eslite.com/product/1001110932638160)
-- [ ] [魔戒三部曲](https://www.eslite.com/product/1001110712681935116004)
+- [百年孤寂 (重讀)](https://www.eslite.com/product/1001116992655321)
+- [活著是為了說故事: 楊照談馬奎斯百年孤寂 (重讀)](https://www.eslite.com/product/1001289402682246800002)
+- [挪威的森林 (重讀)](https://www.eslite.com/product/1001110932638159)
+- [舞．舞．舞](https://www.eslite.com/product/1001110932638162)
+- [發條鳥年代記](https://www.eslite.com/product/1001110932638161)
+- [海邊的卡夫卡 ](https://www.eslite.com/product/1001110932638160)
+- [魔戒三部曲](https://www.eslite.com/product/1001110712681935116004)
