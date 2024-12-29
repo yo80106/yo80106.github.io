@@ -6,7 +6,7 @@
 {{- $title := .Get "title" | default "YouTube Video" }}
 <div style="text-align: center">
 <div {{ with $class }}class="{{ . }}"{{ end }}>
-  <iframe src="https://{{ $ytHost }}/embed/videoseries?list={{ $id }}{{ with .Get "autoplay" }}{{ if eq . "true" }}&autoplay=1{{ end }}{{ end }}" {{ if not $class }}{{ end }} type="text/html" width="560" height="315" allowfullscreen title="{{ $title }}"></iframe>
+  <iframe src="https://{{ $ytHost }}/embed/videoseries?si={{ $si }};list={{ $id }}{{ with .Get "autoplay" }}{{ if eq . "true" }}&autoplay=1{{ end }}{{ end }}" {{ if not $class }}{{ end }} type="text/html" width="560" height="315" allowfullscreen title="{{ $title }}"></iframe>
 </div>
 </div>
 {{ end -}}
