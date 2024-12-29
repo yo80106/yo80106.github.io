@@ -40,4 +40,4 @@ date = "2022-12-30"
 #### 慢慢喜歡你 - by 莫文蔚
 我一直自認是一個喜歡浪漫也善於搞浪漫的人，尤其是學生時代，因為有很多時間加上很中二，腦中總是不斷上演浪漫情節。以前不管追女生或談戀愛都特別用力，甚至有點用力過猛，感情走到後面會感覺有些後繼無力。現在我覺得兩個人在一起，是細水長流，不斷在生活中重新喜歡上對方。我會慢慢喜歡妳、慢慢和妳走在一起，牽著妳的手一直走下去，謝謝現在陪在我身邊的女孩。
 
-{{< youtubepl m-9qUVBASKY07ZDA&amp PL5d2EkxAY0WNtrdlQ3qAQD3fAYgqaDYiL >}}  
+{{< youtubepl "m-9qUVBASKY07ZDA&amp" "PL5d2EkxAY0WNtrdlQ3qAQD3fAYgqaDYiL" >}}  
