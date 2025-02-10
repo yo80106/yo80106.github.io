@@ -43,7 +43,7 @@
     --page-width: 70em;
     --display-h1-decoration: 1;
 }
-/* Turn off dark mode
+
 @media (prefers-color-scheme: dark) {
     :root {
 	--background-color: #222225;
@@ -59,7 +59,7 @@
 	--code-bg-color: #3f3f44;
     }
 }
-*/
+
 @media (prefers-color-scheme: light) {
     :root {
 	--background-color:#fff;

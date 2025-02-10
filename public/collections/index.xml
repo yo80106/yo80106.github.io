@@ -2,80 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collections on yo80106@writing</title>
-    <link>https://yo80106.github.io/collections/</link>
+    <link>http://localhost:1313/collections/</link>
     <description>Recent content in Collections on yo80106@writing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://yo80106.github.io/collections/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/collections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>生活隨筆 - 我家花台</title>
-      <link>https://yo80106.github.io/collections/plant-on-balcony/</link>
+      <link>http://localhost:1313/collections/plant-on-balcony/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://yo80106.github.io/collections/plant-on-balcony/</guid>
+      <guid>http://localhost:1313/collections/plant-on-balcony/</guid>
       <description>這幾天台北天氣相當舒適，氣溫維持在20~27度之間、伴隨陣陣涼風，即使是中午走在外頭也不至於過分曬人。家裡的花台也在春夏轉換之際，迎來一片欣欣向榮，坐在客廳的位置剛好可以看見盆栽們和不遠處的小山綿延成一體，這是在大都市中不可多得的景色。記錄一下植物成員們——九層塔、鉑金鑽蔓綠絨、小辣椒、梔子花、澳洲茶樹；另有生活在室內的盆栽們——袖珍椰子、三蘇、斑葉柾木。</description>
     </item>
-    
     <item>
       <title>再訪清單 - 泰國清邁 (住宿)</title>
-      <link>https://yo80106.github.io/collections/chiang-mai-stay/</link>
+      <link>http://localhost:1313/collections/chiang-mai-stay/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://yo80106.github.io/collections/chiang-mai-stay/</guid>
-      <description>一條羊腸小道兩旁種滿熱帶植物，是我腦海中關於熱帶景色最鮮明的想像。穿過這條小徑，傭擾的日常被留在外頭，抵達身心可以休養之處。這次下榻的兩間旅店，不是清邁城裡城外最頂級的一群；也非個人旅宿經驗中最昂貴者，但無論是環境營造、房裡房外設施、工作人員態度，皆令人感到恰到好處、讓人流連忘返。小徑盡頭的泳池、床頭精緻的陶雕、融入建築的植栽，都是我在清邁關於家的全新想像。
-旅店一：Phor Liang Meun Terracotta Arts Hotel
-旅店二：El Barrio Lanna</description>
+      <guid>http://localhost:1313/collections/chiang-mai-stay/</guid>
+      <description>一條羊腸小道兩旁種滿熱帶植物，是我腦海中關於熱帶景色最鮮明的想像。穿過這條小徑，傭擾的日常被留在外頭，抵達身心可以休養之處。這次下榻的兩間旅店，不是清邁城裡城外最頂級的一群；也非個人旅宿經驗中最昂貴者，但無論是環境營造、房裡房外設施、工作人員態度，皆令人感到恰到好處、讓人流連忘返。小徑盡頭的泳池、床頭精緻的陶雕、融入建築的植栽，都是我在清邁關於家的全新想像。&#xA;旅店一：Phor Liang Meun Terracotta Arts Hotel&#xA;旅店二：El Barrio Lanna</description>
     </item>
-    
     <item>
       <title>再訪清單 - 泰國清邁 (大象)</title>
-      <link>https://yo80106.github.io/collections/chiang-mai-elephant/</link>
+      <link>http://localhost:1313/collections/chiang-mai-elephant/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://yo80106.github.io/collections/chiang-mai-elephant/</guid>
+      <guid>http://localhost:1313/collections/chiang-mai-elephant/</guid>
       <description>記憶中，提到泰國就會聯想到大象，可能是從小就有聽說同學朋友到泰國騎大象。現在動物福祉意識抬頭，騎大象不是旅客熱門項目，取而代之的是到保護園區餵大象、幫大象洗澡、為大象敷泥巴。第一次和大象近距離接觸頗是震撼，大象是陸地上體型最大的動物，但牠們動作敏捷，象鼻猶如人類的雙手，靈活的拾起香蕉和糧草。從牠們溫柔的雙眼裡，我感受到身為人的慚愧，我彷彿可以看見數百年來人類奴役牠們作為運輸中、戰場上、馬戲團裡，重要但不被善待的一角，甚至象牙至今仍為牠們帶來生存的危險。看見園區大象信任的靠近我們，我卻無法完全對人類同胞產生同等的信任，我會以小人之心懷疑大象會不會在我們看不到的時候受到不好的對待。身為遊客在選擇園區時，多花一點心思尋找受大眾背書、具良好聲譽的場所。最後，感謝園區裡的大象，為人類提供教育和反思。</description>
     </item>
-    
     <item>
       <title>再訪清單 - 泰國清邁 (食物)</title>
-      <link>https://yo80106.github.io/collections/chiang-mai-food/</link>
+      <link>http://localhost:1313/collections/chiang-mai-food/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://yo80106.github.io/collections/chiang-mai-food/</guid>
-      <description>以我原本對泰式料理的認識，當然知道月亮蝦餅是「偽泰菜」，其他有名的幾道菜也能列舉一二：檸檬魚、椒麻雞、摩摩喳喳等等。但要真正了解一個地方的在地口味、飲食文化，需要走進街角、與在地人比鄰而坐，享受街頭小吃。原來我對泰式料理有兩個錯誤認識：一是錯把台灣的泰國料理視為全貌；二是認為泰式料理大多酸辣調味。在清邁，泰式炒河粉、炒麵(Pad Thai)、炒飯、船麵等等，都是不辣口的選擇，而且街邊小店的口味更勝許多我在台灣造訪的餐廳。這裡我私心推薦契迪龍寺旁的一間麵店，即使在氣候炎熱的午後，一碗醬油口味的豬肉湯麵，仍然讓人食慾大開。搭配一杯冰涼的椰子水，得以解熱消暑，再戰街頭小吃數百回合。
-契迪龍寺旁的麵店(มุมอร่อย)：148 Prapokklao Lane 7, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand</description>
+      <guid>http://localhost:1313/collections/chiang-mai-food/</guid>
+      <description>以我原本對泰式料理的認識，當然知道月亮蝦餅是「偽泰菜」，其他有名的幾道菜也能列舉一二：檸檬魚、椒麻雞、摩摩喳喳等等。但要真正了解一個地方的在地口味、飲食文化，需要走進街角、與在地人比鄰而坐，享受街頭小吃。原來我對泰式料理有兩個錯誤認識：一是錯把台灣的泰國料理視為全貌；二是認為泰式料理大多酸辣調味。在清邁，泰式炒河粉、炒麵(Pad Thai)、炒飯、船麵等等，都是不辣口的選擇，而且街邊小店的口味更勝許多我在台灣造訪的餐廳。這裡我私心推薦契迪龍寺旁的一間麵店，即使在氣候炎熱的午後，一碗醬油口味的豬肉湯麵，仍然讓人食慾大開。搭配一杯冰涼的椰子水，得以解熱消暑，再戰街頭小吃數百回合。&#xA;契迪龍寺旁的麵店(มุมอร่อย)：148 Prapokklao Lane 7, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand</description>
     </item>
-    
     <item>
       <title>再訪清單 - 和平島地質公園泳池</title>
-      <link>https://yo80106.github.io/collections/heping-island-pool/</link>
+      <link>http://localhost:1313/collections/heping-island-pool/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://yo80106.github.io/collections/heping-island-pool/</guid>
+      <guid>http://localhost:1313/collections/heping-island-pool/</guid>
       <description>前陣子剛好在Monocle出版的「The Monocle Companion 2022」上看到一篇文章，標題為「Sea change in Taiwan」。作為台灣島上的島民，我們的前世今生都與大海息息相關，漢人的祖先冒險犯難橫渡黑水溝、原住民的祖先透過海洋將南島語言開枝散葉；如今，各式海上活動蓬勃發展、「重新」進入大眾的休閒清單。過去的歷史包袱和黨國體制逐漸退進角落，原來，我們可以很親近海洋。下次再訪和平島地質公園，要記得帶上泳具、來游個泳吧！</description>
     </item>
-    
     <item>
       <title>再訪清單 - 基隆</title>
-      <link>https://yo80106.github.io/collections/keelung-street/</link>
+      <link>http://localhost:1313/collections/keelung-street/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://yo80106.github.io/collections/keelung-street/</guid>
+      <guid>http://localhost:1313/collections/keelung-street/</guid>
       <description>在台北念書、工作也有幾年的時間了，我竟然是第一次造訪鄰近的基隆，同行的友人給這個地方下的註解是「很魔幻」。基隆給我的第一印象是充滿市井氣息的街道與街市被擠在山與海之間。基隆不像任何一個台灣的城市，它有北邊城市的擁擠，卻沒有現代的規劃與頗為陳舊的市容、它也有某些西部山城的影子，山腳卻與海比鄰、對比其他海港城市擁有寬敞腹地，它和陰雨一起困於北方一偶。旅行回來後，我簡單的瀏覽基隆的歷史，原來這裡曾聚集來自四面八方的移民，大多帶著很現實的考量，在這個有山有海的地方討生活。下次再訪基隆，我要準備更多故事，好好了解這座台灣最魔幻寫實的城市。(photo credit: Jerry)</description>
     </item>
-    
     <item>
       <title>冬日播放清單 - 「First Love 初戀」</title>
-      <link>https://yo80106.github.io/collections/first-love/</link>
+      <link>http://localhost:1313/collections/first-love/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yo80106.github.io/collections/first-love/</guid>
+      <guid>http://localhost:1313/collections/first-love/</guid>
       <description>「你永遠會記得17歲的愛情」。每個人在17歲可能有不相同的愛情，可能是拚盡全力追求一個人、可能將自己的愛戀放心底，或是初嘗戀愛中的滋味。「First Love 初戀」向我們展示了最甜蜜的那種，搭配北海道的浪漫場景，我想宇多田光的那首First Love，不只喚回女主角的記憶，更是喚醒所有觀眾17歲的愛情。「十七歲的那年，吻過他的臉，就以為和他能永遠」，從此，我們17歲的愛情，在夏天有五月天的如煙；在冬天有「First Love 初戀」。</description>
     </item>
-    
   </channel>
 </rss>
