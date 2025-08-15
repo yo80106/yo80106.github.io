@@ -24,10 +24,6 @@ disqusShortname = "yo80106"
   name = "collections/"
   url = "collections/"
 
-  [services]
-  [services.disqus]
-    shortname = 'your-disqus-shortname'
-
   # GA analytics
   googleAnalyticsID = "G-PSDED7EGZ2"
   

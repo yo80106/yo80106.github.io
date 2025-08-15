@@ -5,14 +5,21 @@
         
         <url>
             <loc>http://localhost:1313/posts/</loc>
-            <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+            <lastmod>2025-08-15T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/</loc>
-            <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+            <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/posts/creation-of-spacewar/</loc>
+            <lastmod>2025-08-15T00:00:00+00:00</lastmod>
         </url>
         
     
