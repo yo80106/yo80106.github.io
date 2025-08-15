@@ -12,7 +12,7 @@ Retro Gamer 翻譯系列 - The Big Bang: Steve Russell and the Creation of Space
 
 在本期具里程碑意義的 Retro Gamer 中，我們回到一切的起點，與那位編寫了史上第一款「真正」電子遊戲的傳奇人物進行對談。
 
-![](./creation-of-spacewar/Pasted%20image%2020250801144044.png)
+![](../spacewar.png)
 
 《Spacewar!》早在 1962 年於 PDP-1 電腦上發布，通常被譽為第一款真正的電子遊戲。當然，在《Spacewar!》誕生前，電腦上已有遊戲可玩——早在 40 年代，大型主機上就存在如井字遊戲和西洋跳棋等傳統遊戲的版本，而 Willy Higinbotham 於 1958 年創作的著名技術展示《Tennis For Two》，也預示了未來遊戲的樣貌。然而，Steve Russell 的《Spacewar!》是全新的事物，一種只能以數位形式存在的創作，其「深太空死鬥」的主題，在它催生了整個產業超過半世紀後的今天，依然是業界的中流砥柱。
 
@@ -40,7 +40,7 @@ Retro Gamer 翻譯系列 - The Big Bang: Steve Russell and the Creation of Space
 
 完全正確，我甚至能告訴你原型是什麼！那艘長長的太空船「Needle (針)」，是我對 Redstone 火箭的卡通畫，那是美國第一款送上太空的火箭。它們基本上就是帶有尾翼的管子，這很好，因為很容易畫！另一艘我們稱為「Wedge (楔)」的船，是基於 30 年代 Buck Rogers 漫畫的設計。
 
-![](./creation-of-spacewar/Pasted%20image%2020250801143920.png)
+![](../spacewar-ships.png)
 
 **據說您想讓射出的飛彈變得不可靠，這是真的嗎**
 
@@ -90,7 +90,7 @@ Dan Edwards 想出了一個方法，可以讓我的顯示程式碼快上許多�
 
 是的，我很自豪，而且我要吹噓一下。你現在可以在 Norbert Landsteiner 的網站 (masswerk.at/spacewar) 上玩的模擬器版本，或者我們在加州電腦歷史博物館的 PDP-1 上展示的版本，用的都是 1962 年的原始程式碼，據我所知，它在 50 多年裡一次都沒當機過！
 
-![](./creation-of-spacewar/Pasted%20image%2020250801144218.png)
+![](../steve-russell.png)
 
 ---
 
