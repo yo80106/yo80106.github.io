@@ -4,7 +4,7 @@ title = "About"
 comment = false
 +++
 
-## 關於yo80106@writing
+## 關於 yo80106@writing
 
 如果你成長在千禧年的第一個十年，那這裡就像是「yo80106の小窩」。  
 如果你成長在千禧年的第二個十年，那這裡就像是「yo80106的臉書」。  
@@ -18,7 +18,9 @@ comment = false
 * 正在進行的小計劃(?)
 * 對人生、生活正經或不正經的想法
 
-## 關於yo80106
+---
+
+## 關於 yo80106
 
 可以肯定的是，我是個有血有肉富有情感、秉持著科學精神的人類。
 
@@ -29,10 +31,19 @@ comment = false
 
 與我聯絡：yo80106@gmail.com
 
+---
+
+### 我正在閱讀...
+
+* 電玩書籍：[電玩哲學](https://www.eslite.com/product/10012168942682646849007)
+* 文學小說：[憨慢王爺](https://www.eslite.com/product/10012046692682584025006)
+
+---
+
 ## 系列文章
 
 ### 英國留學申請系列
 
-- [英國CS Conversion(轉專業)碩士申請](https://yo80106.github.io/posts/study-abroad/)
-- [英國布里斯托大學CS Conversion碩士課程介紹](https://yo80106.github.io/posts/bristol-curriculum/)
-- [英國布里斯托大學Think Big獎學金申請心得](https://yo80106.github.io/posts/think-big-scholarship/)
+* [英國CS Conversion(轉專業)碩士申請](https://yo80106.github.io/posts/study-abroad/)
+* [英國布里斯托大學CS Conversion碩士課程介紹](https://yo80106.github.io/posts/bristol-curriculum/)
+* [英國布里斯托大學Think Big獎學金申請心得](https://yo80106.github.io/posts/think-big-scholarship/)
