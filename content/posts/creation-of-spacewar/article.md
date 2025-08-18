@@ -10,7 +10,7 @@ Retro Gamer 翻譯系列 - The Big Bang: Steve Russell and the Creation of Space
 * **原文標題：Feature 1960's: The Big Bang: Steve Russell and the Creation of Spacewar**
 * **作者：Paul Drury**
 
-在本期具里程碑意義的 Retro Gamer 中，我們回到一切的起點，與那位編寫了史上第一款「真正」電子遊戲的傳奇人物進行對談。
+> 在本期具里程碑意義的 Retro Gamer 中，我們回到一切的起點，與那位編寫了史上第一款「真正」電子遊戲的傳奇人物進行對談。
 
 ![](../spacewar.png)
 
