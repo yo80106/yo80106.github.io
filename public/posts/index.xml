@@ -6,8 +6,15 @@
     <description>Recent content in Posts on yo80106@writing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>輸入/輸出大計畫 - 學習主題月</title>
+      <link>http://localhost:1313/posts/learning-for-month/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/learning-for-month/</guid>
+      <description>&lt;p&gt;學習主題月是以月為單位，分享我這個月孜孜不倦的成果。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>遊戲製作秘辛：《Computer Space》</title>
       <link>http://localhost:1313/posts/making-of-computer-space/article/</link>
